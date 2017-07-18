@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+figure/
+test_knitr_cache_cache/
+*.html
+*.pdf
+*.docx
+spin_example.Rmd
+spin_example.md
