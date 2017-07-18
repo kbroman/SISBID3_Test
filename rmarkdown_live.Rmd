@@ -7,10 +7,6 @@ output:
     code_folding: show
     toc: yes
     toc_float: yes
-  pdf_document:
-    toc: yes
-  word_document:
-    toc: yes
 ---
 
 ```{r setup, include=FALSE}
